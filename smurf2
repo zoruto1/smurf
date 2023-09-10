@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>nononono</title>
+    <style>
+        body {
+           background-color: black;
+        }
+        
+        div {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            align-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+    <video autoplay loop src="ssstik.io_1694301840572.mp4"></video>
+    </div>
+</body>
+</html>
